@@ -1,4 +1,4 @@
-# RISC-V Emulator
+# Risky
 My attempt at making a RISC-V emulator in C.
 
 <hr>
