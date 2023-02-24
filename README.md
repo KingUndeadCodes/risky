@@ -12,6 +12,6 @@ Next:
 - Clone the repository (if you haven't already).
 - Just run `make`, wait and **BOOM** you're done!
 
-## Inspection
+## Disclosure 
 
-This project is heavily inspired by [fmash16/riscv_emulator](https://github.com/fmash16/riscv_emulator.git).
+This project is heavily inspired by [fmash16/riscv_emulator](https://github.com/fmash16/riscv_emulator.git). 
